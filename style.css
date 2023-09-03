@@ -1,0 +1,33 @@
+body {
+  background-color:green;
+}
+
+h1 {
+   margin: 30px;
+   color: gold;
+   font-size: 30px;
+   font-family: arial, helvetica, sans-serif;
+}
+img {
+  width:200px;
+  margin:5px;
+}
+p , li {
+  margin: 10px;
+  color:gold;
+  font-family: arial, helvetica, sans-serif;
+}
+.header{
+  background-color: maroon;
+  margin: 10px;
+  padding-left: 10px;
+  border: 10px maroon;
+  }
+
+.footer{
+  background-color: gold;
+  color: black;
+  margin: 5px;
+  padding-left: 23px;
+  border: 1px solid black;
+}
